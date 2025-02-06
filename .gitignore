@@ -5,5 +5,5 @@
 !.gitignore
 
 # Не игнорировать папку my_folder и её содержимое
-!Machine Learning/
-!Machine Learning/**
+!/Machine Learning/
+!/Machine Learning/**
