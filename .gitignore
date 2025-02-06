@@ -1,0 +1,9 @@
+# Игнорировать все файлы
+*
+
+# Но не игнорировать сам .gitignore
+!.gitignore
+
+# Не игнорировать папку my_folder и её содержимое
+!Machine\ Learning/
+!Machine\ Learning/**
